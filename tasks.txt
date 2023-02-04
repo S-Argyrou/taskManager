@@ -1,0 +1,3 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 2023-02-06, 2023-04-06, No
+matteo90, Statistics, Create statistics to monitor average completion time, 2023-01-06, 2023-04-23, No
+sky85, Send email to clients, Email clients about new softwares, 2023-01-06, 2023-03-03, No
